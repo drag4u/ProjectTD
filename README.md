@@ -11,4 +11,5 @@
 1. Eini į šią direktoriją: **C:\Program Files\Epic Games\UE_4.14\Engine\Extras\AndroidWorks\Win64**
 2. Paleidi **CodeWorksforAndroid-1R5-windows.exe** failą.
 3. Next -> Next -> Next -> Accept -> Valio!
-4. Dėja reikia restartuot PC :(
+4. Daug visko instaliuos (Apie 15 min)
+5. RR PC
